@@ -18,4 +18,5 @@ val AppSecondaryText = Color(0xFF7C7C7C)
 val AppBorder = Color(0xFFE2E2E2)
 
 val AppError = Color(0xFFFF4343)
+val AppIconTint = Color(0xFF6F6F6F)
 
